@@ -6,7 +6,7 @@ Assignment 1: [Probability, Linear Algebra, & Computational Programming](https:/
 
 Assignment 2: [Supervised Machine Learning Fundamentals](https://github.com/YZhu0225/IDS705_Machine_Learning/tree/main/Supervised%20Machine%20Learning%20Fundamentals)
 
-Assignment 3: 
+Assignment 3: [Supervised learning model training and evaluation](https://github.com/YZhu0225/IDS705_Machine_Learning/tree/main/Supervised%20learning%20model%20training%20and%20evaluation)
 
 Assignment 4: 
 
