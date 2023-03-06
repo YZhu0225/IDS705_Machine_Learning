@@ -8,7 +8,7 @@ Assignment 2: [Supervised Machine Learning Fundamentals](https://github.com/YZhu
 
 Assignment 3: [Supervised learning model training and evaluation](https://github.com/YZhu0225/IDS705_Machine_Learning/tree/main/Supervised%20learning%20model%20training%20and%20evaluation)
 
-Assignment 4: 
+Assignment 4: [Neural Networks](https://github.com/YZhu0225/IDS705_Machine_Learning/tree/main/Neural%20Networks)
 
 Assignment 5: 
 
