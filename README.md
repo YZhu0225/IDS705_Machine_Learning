@@ -10,6 +10,6 @@ Assignment 3: [Supervised learning model training and evaluation](https://github
 
 Assignment 4: [Neural Networks](https://github.com/YZhu0225/IDS705_Machine_Learning/tree/main/Neural%20Networks)
 
-Assignment 5: 
+Assignment 5: [Kaggle Competition and Unsupervised Learning](https://github.com/YZhu0225/IDS705_Machine_Learning/tree/main/Kaggle%20Competition%20and%20Unsupervised%20Learning)
 
 Final Project: 
