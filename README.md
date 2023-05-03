@@ -12,4 +12,4 @@ Assignment 4: [Neural Networks](https://github.com/YZhu0225/IDS705_Machine_Learn
 
 Assignment 5: [Kaggle Competition and Unsupervised Learning](https://github.com/YZhu0225/IDS705_Machine_Learning/tree/main/Kaggle%20Competition%20and%20Unsupervised%20Learning)
 
-Final Project: 
+Final Project: [UAS Semantic Segmentation for Safe Landing](https://github.com/YZhu0225/UAS-Semantic-Segmentation-for-Safe-Landing)
